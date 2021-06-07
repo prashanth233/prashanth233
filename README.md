@@ -22,7 +22,7 @@
 </a>
 <br/>
 
-**Languages and Tools:**  
+**Programming Languages and Software Developer Tools**  
 
 
 <a href="https://github.com/prashanth233">
