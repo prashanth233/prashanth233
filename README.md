@@ -1,4 +1,4 @@
-### Hi there 👋, I am Prashanth.
+### Hi there 👋 , I am Prashanth.
 
 - 🔭 I’m currently working on Vehicle Attribution @ CDAC and 5G Networks @ NEC Corp.
 - 🌱 I’m currently learning Computer Vision, Computer Networks.
