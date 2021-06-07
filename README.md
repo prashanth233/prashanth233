@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/prashanth233">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth233&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth233&theme=dark&hide_langs_below=1" />
 </a>
 
 
