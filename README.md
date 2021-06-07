@@ -1,8 +1,8 @@
 ### Hi there 👋 , I am Prashanth.
 
 - 🔭 I’m currently working on two domains: 
--    Vehicle Attribution @ CDAC.
--    5G Networks @ NEC Corporation.
+   - Vehicle Attribution @ CDAC.
+   - 5G Networks @ NEC Corporation.
 - 🌱 I’m currently learning Computer Vision, Computer Networks.
 - 🤔 I’m looking for help with Augmented Reality/Virtual Reality.
 - 💬 Ask me about any tech related stuff.
