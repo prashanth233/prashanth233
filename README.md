@@ -7,8 +7,6 @@
 - 📫 How to reach me: Mail - [Twitter - @Prashanth1278](https://twitter.com/Prashanth1278), [LinkedIn - prashanth dharamsoth](https://www.linkedin.com/in/prashanth-dharamsoth-ab01501aa/)
 - 😄 Pronouns: He/His.
 
-## ✉️ Find me on:
-
 
 <a href="https://twitter.com/Prashanth1278">
   <img align="left" alt="Prashanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
