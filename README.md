@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on two domains : 
      - Collaborative Live Video Analytics for Large Camera Deployments using 5G - Attribution Recognition @ CDAC (Centre for Development of Advanced Computing).
-     - 5G Networks @ NEC Corporation.
+     - 5G Wireless Communication Networks.
 - 🌱 I’m currently learning Computer Vision, Computer Networks.
 - 🤔 I’m looking for help with Augmented Reality/Virtual Reality.
 - 💬 Ask me about any tech related stuff.
