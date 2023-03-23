@@ -1,10 +1,6 @@
 ### Hi there 👋 , I am Prashanth.
 
-- 🔭 I’m currently working on two domains : 
-     - Collaborative Live Video Analytics for Large Camera Deployments using 5G - Attribution Recognition @ CDAC (Centre for Development of Advanced Computing).
-     - 5G Wireless Communication Networks.
-- 🌱 I’m currently learning Computer Networks.
-- 🤔 I’m looking for help with Augmented Reality/Virtual Reality.
+- 🤔 Interested in Augmented Reality/Virtual Reality technologies.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me : 
      - [Twitter - @Prashanth1278](https://twitter.com/Prashanth1278)
