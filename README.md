@@ -1,6 +1,6 @@
 ### Hi there 👋 , I am Prashanth.
 
-- 🤔 Interested in Augmented Reality/Virtual Reality technologies.
+- 🤔 Interested in learning Augmented Reality/Virtual Reality technologies.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me : 
      - [Twitter - @Prashanth1278](https://twitter.com/Prashanth1278)
