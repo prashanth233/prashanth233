@@ -6,7 +6,8 @@
 - 🔧 On my GitHub, you'll find a collection of my personal projects and experiments where I apply my skills and explore new technologies. Feel free to browse through my repositories.
 - 💬 Ask me about any tech related stuff.
 - ✨ Let's connect and learn from each other!
-- 📫 How to reach me : 
+- 📫 How to reach me :
+     - [Gmail - dharamsothprashanth@gmail.com or prashanth29367@gmail.com]
      - [Twitter - @Prashanth1278](https://twitter.com/Prashanth1278)
      - [LinkedIn - prashanth dharamsoth](https://www.linkedin.com/in/prashanth-dharamsoth-ab01501aa/)
 - 😄 Pronouns: He/His.
