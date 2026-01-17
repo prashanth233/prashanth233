@@ -7,20 +7,13 @@
 - 💬 Ask me about any tech related stuff.
 - ✨ Let's connect and learn from each other!
 - 📫 How to reach me :
-     - [Gmail - dharamsothprashanth@gmail.com or prashanth29367@gmail.com]
-     - [Twitter - @Prashanth1278](https://twitter.com/Prashanth1278)
+     - [Gmail - dharamsothprashanth@gmail.com]
      - [LinkedIn - prashanth dharamsoth](https://www.linkedin.com/in/prashanth-dharamsoth-ab01501aa/)
 - 😄 Pronouns: He/His.
 
 
-<a href="https://twitter.com/Prashanth1278">
-  <img align="left" alt="Prashanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/prashanth-dharamsoth-ab01501aa/">
   <img align="left" alt="Prashanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/dharamsothprashanth/">
-  <img align="left" alt="Prashanth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
 
